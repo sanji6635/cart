@@ -7,5 +7,5 @@ export default defineConfig({
     port: 4200,
   },
   plugins: [react()],
-  base: "/dist/", // Replace <repo-name> with your GitHub repository name
+  base: "/cart/", // Replace <repo-name> with your GitHub repository name
 });
