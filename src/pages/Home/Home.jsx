@@ -5,7 +5,7 @@ import Header from "../../components/CommonComp/Header/Header";
 
 const Home = () => {
   return (
-    <div className="Home">
+    <div className="Home" style={{ backgroundImage: 'url("port.png")' }}>
       <Navbar />
       <Header />
     </div>
